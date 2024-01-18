@@ -11,5 +11,4 @@
 * Finding Explanation:
 
 * Citation:
-
-When troubleshooting to allow my code to run on all sheets successfully, our TA Randy helped me correct the path error and simplify my actions under for loop in PyBank. Tutor Kelli also provided me guidance on correctly setting up token for github and pushing updates to github
+  * When troubleshooting to allow my code to run on all sheets successfully, our TA Randy helped     me correct the path error and simplify my actions under for loop in PyBank. Tutor Kelli also       provided me guidance on correctly setting up token for github and pushing updates to github
